@@ -1,0 +1,10 @@
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1986-04-27T12:00:00Z', 1, '07398528680', NOW(), 4500.0, 'Andre Lima');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1986-11-28T06:00:00Z', 1, '01562920615', NOW(), 3500.0, 'Renata Vieira');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1957-09-24T11:00:00Z', 3, '05334678912', NOW(), 5500.0, 'Heloisa Macedo');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1957-09-24T11:05:00Z', 1, '05334678913', NOW(), 5500.0, 'Helenice Macedo');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1953-08-13T09:00:00Z', 3, '05434678912', NOW(), 6500.0, 'Adriao Lima');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1984-04-16T17:00:00Z', 1, '07334678912', NOW(), 3500.0, 'Tiago Lima');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1991-04-21T05:00:00Z', 1, '05343478912', NOW(), 7500.0, 'Lucas Chaves');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1988-04-15T07:30:00Z', 1, '08733467912', NOW(), 5500.0, 'Daniel Macedo');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('1991-10-12T12:00:00Z', 0, '08834678912', NOW(), 5500.0, 'Raquel Macedo');
+INSERT INTO tb_client (birth_date, children,cpf,created_at,income,name) values ('2010-05-28T22:30:00Z', 0, '09334678912', NOW(), 350.0, 'Lorena Guardinasi');
